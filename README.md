@@ -13,8 +13,8 @@ Forecasting monthly demand for 15 packaging and shipping-supply SKUs, then turni
 | Safety stock needed at 95% service level | **$63.3K**, which is **$16.8K (21%) less** than with naive forecasting |
 | 6-month forecast (Jan–Jun 2026) | 241K units across 15 SKUs |
 
-![Forecast vs actual](outputs/03_forecast_vs_actual.png)
-![Model comparison](outputs/02_model_comparison.png)
+![Forecast vs actual](03_forecast_vs_actual.png)
+![Model comparison](02_model_comparison.png)
 
 ## Approach
 
