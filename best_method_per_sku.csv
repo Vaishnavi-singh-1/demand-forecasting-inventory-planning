@@ -1,0 +1,16 @@
+sku,best_method
+BOX-1210,Holt-Winters
+BOX-1812,Holt-Winters
+BOX-2420,Seasonal Naive
+BUB-1224,Seasonal Naive
+BUB-PCH,Seasonal Naive
+FILM-18,Seasonal Naive
+FILM-HD,Seasonal Naive
+GLV-NIT,Naive
+LBL-4X6,Holt-Winters
+MAIL-1013,Holt-Winters
+MAIL-BUB,Holt-Winters
+PAL-4840,Seasonal Naive
+TAPE-2CL,Seasonal Naive
+TAPE-3BR,Seasonal Naive
+VOID-AIR,Holt-Winters

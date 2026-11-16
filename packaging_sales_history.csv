@@ -1,0 +1,541 @@
+month,sku,description,category,units_sold,unit_cost,lead_time_weeks
+2023-01,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4301,0.62,3
+2023-02,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4042,0.62,3
+2023-03,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5290,0.62,3
+2023-04,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5500,0.62,3
+2023-05,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4424,0.62,3
+2023-06,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4642,0.62,3
+2023-07,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5173,0.62,3
+2023-08,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5208,0.62,3
+2023-09,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5753,0.62,3
+2023-10,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5762,0.62,3
+2023-11,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,7077,0.62,3
+2023-12,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,7068,0.62,3
+2024-01,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4559,0.62,3
+2024-02,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5191,0.62,3
+2024-03,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5591,0.62,3
+2024-04,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5145,0.62,3
+2024-05,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5828,0.62,3
+2024-06,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5167,0.62,3
+2024-07,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5919,0.62,3
+2024-08,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,5748,0.62,3
+2024-09,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6130,0.62,3
+2024-10,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6315,0.62,3
+2024-11,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,7839,0.62,3
+2024-12,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,7098,0.62,3
+2025-01,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4730,0.62,3
+2025-02,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,4998,0.62,3
+2025-03,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6069,0.62,3
+2025-04,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6141,0.62,3
+2025-05,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6316,0.62,3
+2025-06,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6252,0.62,3
+2025-07,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6996,0.62,3
+2025-08,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6030,0.62,3
+2025-09,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6444,0.62,3
+2025-10,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,6743,0.62,3
+2025-11,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,8092,0.62,3
+2025-12,BOX-1210,Corrugated Box 12x10x8,Corrugated Boxes,8463,0.62,3
+2023-01,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2562,1.05,3
+2023-02,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2491,1.05,3
+2023-03,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2768,1.05,3
+2023-04,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3230,1.05,3
+2023-05,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3322,1.05,3
+2023-06,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3232,1.05,3
+2023-07,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2865,1.05,3
+2023-08,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3225,1.05,3
+2023-09,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3403,1.05,3
+2023-10,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3649,1.05,3
+2023-11,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,4089,1.05,3
+2023-12,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3886,1.05,3
+2024-01,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2911,1.05,3
+2024-02,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2874,1.05,3
+2024-03,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3251,1.05,3
+2024-04,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3418,1.05,3
+2024-05,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2867,1.05,3
+2024-06,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3172,1.05,3
+2024-07,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3094,1.05,3
+2024-08,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3156,1.05,3
+2024-09,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3481,1.05,3
+2024-10,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,4304,1.05,3
+2024-11,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3706,1.05,3
+2024-12,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,4390,1.05,3
+2025-01,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2468,1.05,3
+2025-02,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,2936,1.05,3
+2025-03,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3408,1.05,3
+2025-04,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3609,1.05,3
+2025-05,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3722,1.05,3
+2025-06,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3709,1.05,3
+2025-07,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3317,1.05,3
+2025-08,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3402,1.05,3
+2025-09,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,4076,1.05,3
+2025-10,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3952,1.05,3
+2025-11,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3771,1.05,3
+2025-12,BOX-1812,Corrugated Box 18x12x12,Corrugated Boxes,3844,1.05,3
+2023-01,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1074,2.4,4
+2023-02,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1321,2.4,4
+2023-03,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1380,2.4,4
+2023-04,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1493,2.4,4
+2023-05,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1329,2.4,4
+2023-06,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1414,2.4,4
+2023-07,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1477,2.4,4
+2023-08,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1362,2.4,4
+2023-09,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1573,2.4,4
+2023-10,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1443,2.4,4
+2023-11,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1574,2.4,4
+2023-12,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1575,2.4,4
+2024-01,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1076,2.4,4
+2024-02,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1372,2.4,4
+2024-03,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1331,2.4,4
+2024-04,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1436,2.4,4
+2024-05,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1541,2.4,4
+2024-06,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1520,2.4,4
+2024-07,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1543,2.4,4
+2024-08,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1454,2.4,4
+2024-09,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1472,2.4,4
+2024-10,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1615,2.4,4
+2024-11,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1365,2.4,4
+2024-12,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1419,2.4,4
+2025-01,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1099,2.4,4
+2025-02,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1187,2.4,4
+2025-03,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1537,2.4,4
+2025-04,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1329,2.4,4
+2025-05,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1446,2.4,4
+2025-06,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1735,2.4,4
+2025-07,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1423,2.4,4
+2025-08,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1665,2.4,4
+2025-09,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1432,2.4,4
+2025-10,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1654,2.4,4
+2025-11,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1577,2.4,4
+2025-12,BOX-2420,Heavy-Duty Box 24x20x20,Corrugated Boxes,1713,2.4,4
+2023-01,TAPE-2CL,Packing Tape 2in Clear,Tape,4067,1.15,2
+2023-02,TAPE-2CL,Packing Tape 2in Clear,Tape,3512,1.15,2
+2023-03,TAPE-2CL,Packing Tape 2in Clear,Tape,4564,1.15,2
+2023-04,TAPE-2CL,Packing Tape 2in Clear,Tape,4592,1.15,2
+2023-05,TAPE-2CL,Packing Tape 2in Clear,Tape,4414,1.15,2
+2023-06,TAPE-2CL,Packing Tape 2in Clear,Tape,4093,1.15,2
+2023-07,TAPE-2CL,Packing Tape 2in Clear,Tape,4524,1.15,2
+2023-08,TAPE-2CL,Packing Tape 2in Clear,Tape,4489,1.15,2
+2023-09,TAPE-2CL,Packing Tape 2in Clear,Tape,5047,1.15,2
+2023-10,TAPE-2CL,Packing Tape 2in Clear,Tape,5281,1.15,2
+2023-11,TAPE-2CL,Packing Tape 2in Clear,Tape,6207,1.15,2
+2023-12,TAPE-2CL,Packing Tape 2in Clear,Tape,5510,1.15,2
+2024-01,TAPE-2CL,Packing Tape 2in Clear,Tape,3744,1.15,2
+2024-02,TAPE-2CL,Packing Tape 2in Clear,Tape,4248,1.15,2
+2024-03,TAPE-2CL,Packing Tape 2in Clear,Tape,4722,1.15,2
+2024-04,TAPE-2CL,Packing Tape 2in Clear,Tape,5194,1.15,2
+2024-05,TAPE-2CL,Packing Tape 2in Clear,Tape,5118,1.15,2
+2024-06,TAPE-2CL,Packing Tape 2in Clear,Tape,4901,1.15,2
+2024-07,TAPE-2CL,Packing Tape 2in Clear,Tape,5211,1.15,2
+2024-08,TAPE-2CL,Packing Tape 2in Clear,Tape,4488,1.15,2
+2024-09,TAPE-2CL,Packing Tape 2in Clear,Tape,4981,1.15,2
+2024-10,TAPE-2CL,Packing Tape 2in Clear,Tape,5177,1.15,2
+2024-11,TAPE-2CL,Packing Tape 2in Clear,Tape,5701,1.15,2
+2024-12,TAPE-2CL,Packing Tape 2in Clear,Tape,5317,1.15,2
+2025-01,TAPE-2CL,Packing Tape 2in Clear,Tape,4423,1.15,2
+2025-02,TAPE-2CL,Packing Tape 2in Clear,Tape,4336,1.15,2
+2025-03,TAPE-2CL,Packing Tape 2in Clear,Tape,4380,1.15,2
+2025-04,TAPE-2CL,Packing Tape 2in Clear,Tape,4626,1.15,2
+2025-05,TAPE-2CL,Packing Tape 2in Clear,Tape,5189,1.15,2
+2025-06,TAPE-2CL,Packing Tape 2in Clear,Tape,5315,1.15,2
+2025-07,TAPE-2CL,Packing Tape 2in Clear,Tape,5657,1.15,2
+2025-08,TAPE-2CL,Packing Tape 2in Clear,Tape,6188,1.15,2
+2025-09,TAPE-2CL,Packing Tape 2in Clear,Tape,5634,1.15,2
+2025-10,TAPE-2CL,Packing Tape 2in Clear,Tape,5410,1.15,2
+2025-11,TAPE-2CL,Packing Tape 2in Clear,Tape,5235,1.15,2
+2025-12,TAPE-2CL,Packing Tape 2in Clear,Tape,6294,1.15,2
+2023-01,TAPE-3BR,Carton Tape 3in Brown,Tape,1472,1.6,2
+2023-02,TAPE-3BR,Carton Tape 3in Brown,Tape,1574,1.6,2
+2023-03,TAPE-3BR,Carton Tape 3in Brown,Tape,1647,1.6,2
+2023-04,TAPE-3BR,Carton Tape 3in Brown,Tape,1752,1.6,2
+2023-05,TAPE-3BR,Carton Tape 3in Brown,Tape,1991,1.6,2
+2023-06,TAPE-3BR,Carton Tape 3in Brown,Tape,1814,1.6,2
+2023-07,TAPE-3BR,Carton Tape 3in Brown,Tape,1744,1.6,2
+2023-08,TAPE-3BR,Carton Tape 3in Brown,Tape,1625,1.6,2
+2023-09,TAPE-3BR,Carton Tape 3in Brown,Tape,1574,1.6,2
+2023-10,TAPE-3BR,Carton Tape 3in Brown,Tape,1873,1.6,2
+2023-11,TAPE-3BR,Carton Tape 3in Brown,Tape,2037,1.6,2
+2023-12,TAPE-3BR,Carton Tape 3in Brown,Tape,2416,1.6,2
+2024-01,TAPE-3BR,Carton Tape 3in Brown,Tape,1672,1.6,2
+2024-02,TAPE-3BR,Carton Tape 3in Brown,Tape,1858,1.6,2
+2024-03,TAPE-3BR,Carton Tape 3in Brown,Tape,1717,1.6,2
+2024-04,TAPE-3BR,Carton Tape 3in Brown,Tape,1614,1.6,2
+2024-05,TAPE-3BR,Carton Tape 3in Brown,Tape,1675,1.6,2
+2024-06,TAPE-3BR,Carton Tape 3in Brown,Tape,1706,1.6,2
+2024-07,TAPE-3BR,Carton Tape 3in Brown,Tape,2214,1.6,2
+2024-08,TAPE-3BR,Carton Tape 3in Brown,Tape,1714,1.6,2
+2024-09,TAPE-3BR,Carton Tape 3in Brown,Tape,2111,1.6,2
+2024-10,TAPE-3BR,Carton Tape 3in Brown,Tape,1845,1.6,2
+2024-11,TAPE-3BR,Carton Tape 3in Brown,Tape,2306,1.6,2
+2024-12,TAPE-3BR,Carton Tape 3in Brown,Tape,2196,1.6,2
+2025-01,TAPE-3BR,Carton Tape 3in Brown,Tape,1673,1.6,2
+2025-02,TAPE-3BR,Carton Tape 3in Brown,Tape,1735,1.6,2
+2025-03,TAPE-3BR,Carton Tape 3in Brown,Tape,1740,1.6,2
+2025-04,TAPE-3BR,Carton Tape 3in Brown,Tape,1969,1.6,2
+2025-05,TAPE-3BR,Carton Tape 3in Brown,Tape,1822,1.6,2
+2025-06,TAPE-3BR,Carton Tape 3in Brown,Tape,1662,1.6,2
+2025-07,TAPE-3BR,Carton Tape 3in Brown,Tape,1640,1.6,2
+2025-08,TAPE-3BR,Carton Tape 3in Brown,Tape,1957,1.6,2
+2025-09,TAPE-3BR,Carton Tape 3in Brown,Tape,2323,1.6,2
+2025-10,TAPE-3BR,Carton Tape 3in Brown,Tape,2123,1.6,2
+2025-11,TAPE-3BR,Carton Tape 3in Brown,Tape,2147,1.6,2
+2025-12,TAPE-3BR,Carton Tape 3in Brown,Tape,2240,1.6,2
+2023-01,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,847,18.5,5
+2023-02,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,802,18.5,5
+2023-03,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,862,18.5,5
+2023-04,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1040,18.5,5
+2023-05,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,997,18.5,5
+2023-06,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1097,18.5,5
+2023-07,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,942,18.5,5
+2023-08,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,838,18.5,5
+2023-09,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,895,18.5,5
+2023-10,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1346,18.5,5
+2023-11,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1459,18.5,5
+2023-12,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1209,18.5,5
+2024-01,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,759,18.5,5
+2024-02,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,973,18.5,5
+2024-03,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,849,18.5,5
+2024-04,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,895,18.5,5
+2024-05,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1091,18.5,5
+2024-06,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,960,18.5,5
+2024-07,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,988,18.5,5
+2024-08,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1018,18.5,5
+2024-09,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1169,18.5,5
+2024-10,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1408,18.5,5
+2024-11,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1325,18.5,5
+2024-12,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1413,18.5,5
+2025-01,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,657,18.5,5
+2025-02,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,892,18.5,5
+2025-03,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,938,18.5,5
+2025-04,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,920,18.5,5
+2025-05,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,985,18.5,5
+2025-06,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1035,18.5,5
+2025-07,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1164,18.5,5
+2025-08,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,947,18.5,5
+2025-09,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1210,18.5,5
+2025-10,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1235,18.5,5
+2025-11,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1353,18.5,5
+2025-12,BUB-1224,Bubble Roll 12in x 250ft,Protective Pkg,1568,18.5,5
+2023-01,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,605,22.0,5
+2023-02,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,698,22.0,5
+2023-03,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,660,22.0,5
+2023-04,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,629,22.0,5
+2023-05,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,689,22.0,5
+2023-06,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,725,22.0,5
+2023-07,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,712,22.0,5
+2023-08,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,625,22.0,5
+2023-09,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,794,22.0,5
+2023-10,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,869,22.0,5
+2023-11,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1200,22.0,5
+2023-12,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1133,22.0,5
+2024-01,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,553,22.0,5
+2024-02,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,629,22.0,5
+2024-03,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,600,22.0,5
+2024-04,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,703,22.0,5
+2024-05,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,813,22.0,5
+2024-06,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,894,22.0,5
+2024-07,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,693,22.0,5
+2024-08,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,732,22.0,5
+2024-09,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,623,22.0,5
+2024-10,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,909,22.0,5
+2024-11,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,857,22.0,5
+2024-12,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,933,22.0,5
+2025-01,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,606,22.0,5
+2025-02,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,710,22.0,5
+2025-03,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,629,22.0,5
+2025-04,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,677,22.0,5
+2025-05,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1097,22.0,5
+2025-06,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,708,22.0,5
+2025-07,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,722,22.0,5
+2025-08,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1090,22.0,5
+2025-09,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1309,22.0,5
+2025-10,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,866,22.0,5
+2025-11,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1041,22.0,5
+2025-12,BUB-PCH,Bubble Pouch 6x8 (case),Protective Pkg,1151,22.0,5
+2023-01,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2474,14.75,4
+2023-02,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2026,14.75,4
+2023-03,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2228,14.75,4
+2023-04,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2431,14.75,4
+2023-05,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2384,14.75,4
+2023-06,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2227,14.75,4
+2023-07,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2264,14.75,4
+2023-08,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2060,14.75,4
+2023-09,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2320,14.75,4
+2023-10,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2365,14.75,4
+2023-11,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2513,14.75,4
+2023-12,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2361,14.75,4
+2024-01,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2301,14.75,4
+2024-02,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2426,14.75,4
+2024-03,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2347,14.75,4
+2024-04,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2400,14.75,4
+2024-05,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2360,14.75,4
+2024-06,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2342,14.75,4
+2024-07,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2199,14.75,4
+2024-08,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2421,14.75,4
+2024-09,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2394,14.75,4
+2024-10,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2877,14.75,4
+2024-11,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2833,14.75,4
+2024-12,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2598,14.75,4
+2025-01,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2123,14.75,4
+2025-02,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2085,14.75,4
+2025-03,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2590,14.75,4
+2025-04,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2431,14.75,4
+2025-05,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2489,14.75,4
+2025-06,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2055,14.75,4
+2025-07,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2557,14.75,4
+2025-08,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2496,14.75,4
+2025-09,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2242,14.75,4
+2025-10,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2419,14.75,4
+2025-11,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2621,14.75,4
+2025-12,FILM-18,Stretch Film 18in x 1500ft,Stretch Film,2582,14.75,4
+2023-01,FILM-HD,Hand Stretch Film 80ga,Stretch Film,775,19.9,4
+2023-02,FILM-HD,Hand Stretch Film 80ga,Stretch Film,802,19.9,4
+2023-03,FILM-HD,Hand Stretch Film 80ga,Stretch Film,813,19.9,4
+2023-04,FILM-HD,Hand Stretch Film 80ga,Stretch Film,859,19.9,4
+2023-05,FILM-HD,Hand Stretch Film 80ga,Stretch Film,998,19.9,4
+2023-06,FILM-HD,Hand Stretch Film 80ga,Stretch Film,585,19.9,4
+2023-07,FILM-HD,Hand Stretch Film 80ga,Stretch Film,818,19.9,4
+2023-08,FILM-HD,Hand Stretch Film 80ga,Stretch Film,869,19.9,4
+2023-09,FILM-HD,Hand Stretch Film 80ga,Stretch Film,899,19.9,4
+2023-10,FILM-HD,Hand Stretch Film 80ga,Stretch Film,847,19.9,4
+2023-11,FILM-HD,Hand Stretch Film 80ga,Stretch Film,714,19.9,4
+2023-12,FILM-HD,Hand Stretch Film 80ga,Stretch Film,941,19.9,4
+2024-01,FILM-HD,Hand Stretch Film 80ga,Stretch Film,979,19.9,4
+2024-02,FILM-HD,Hand Stretch Film 80ga,Stretch Film,670,19.9,4
+2024-03,FILM-HD,Hand Stretch Film 80ga,Stretch Film,935,19.9,4
+2024-04,FILM-HD,Hand Stretch Film 80ga,Stretch Film,818,19.9,4
+2024-05,FILM-HD,Hand Stretch Film 80ga,Stretch Film,851,19.9,4
+2024-06,FILM-HD,Hand Stretch Film 80ga,Stretch Film,746,19.9,4
+2024-07,FILM-HD,Hand Stretch Film 80ga,Stretch Film,816,19.9,4
+2024-08,FILM-HD,Hand Stretch Film 80ga,Stretch Film,993,19.9,4
+2024-09,FILM-HD,Hand Stretch Film 80ga,Stretch Film,939,19.9,4
+2024-10,FILM-HD,Hand Stretch Film 80ga,Stretch Film,1081,19.9,4
+2024-11,FILM-HD,Hand Stretch Film 80ga,Stretch Film,1042,19.9,4
+2024-12,FILM-HD,Hand Stretch Film 80ga,Stretch Film,962,19.9,4
+2025-01,FILM-HD,Hand Stretch Film 80ga,Stretch Film,991,19.9,4
+2025-02,FILM-HD,Hand Stretch Film 80ga,Stretch Film,872,19.9,4
+2025-03,FILM-HD,Hand Stretch Film 80ga,Stretch Film,940,19.9,4
+2025-04,FILM-HD,Hand Stretch Film 80ga,Stretch Film,830,19.9,4
+2025-05,FILM-HD,Hand Stretch Film 80ga,Stretch Film,873,19.9,4
+2025-06,FILM-HD,Hand Stretch Film 80ga,Stretch Film,790,19.9,4
+2025-07,FILM-HD,Hand Stretch Film 80ga,Stretch Film,960,19.9,4
+2025-08,FILM-HD,Hand Stretch Film 80ga,Stretch Film,745,19.9,4
+2025-09,FILM-HD,Hand Stretch Film 80ga,Stretch Film,969,19.9,4
+2025-10,FILM-HD,Hand Stretch Film 80ga,Stretch Film,883,19.9,4
+2025-11,FILM-HD,Hand Stretch Film 80ga,Stretch Film,1052,19.9,4
+2025-12,FILM-HD,Hand Stretch Film 80ga,Stretch Film,1006,19.9,4
+2023-01,MAIL-1013,Poly Mailer 10x13,Mailers,5955,0.14,3
+2023-02,MAIL-1013,Poly Mailer 10x13,Mailers,5835,0.14,3
+2023-03,MAIL-1013,Poly Mailer 10x13,Mailers,5548,0.14,3
+2023-04,MAIL-1013,Poly Mailer 10x13,Mailers,6640,0.14,3
+2023-05,MAIL-1013,Poly Mailer 10x13,Mailers,6175,0.14,3
+2023-06,MAIL-1013,Poly Mailer 10x13,Mailers,6490,0.14,3
+2023-07,MAIL-1013,Poly Mailer 10x13,Mailers,7623,0.14,3
+2023-08,MAIL-1013,Poly Mailer 10x13,Mailers,7509,0.14,3
+2023-09,MAIL-1013,Poly Mailer 10x13,Mailers,7336,0.14,3
+2023-10,MAIL-1013,Poly Mailer 10x13,Mailers,7787,0.14,3
+2023-11,MAIL-1013,Poly Mailer 10x13,Mailers,9351,0.14,3
+2023-12,MAIL-1013,Poly Mailer 10x13,Mailers,8381,0.14,3
+2024-01,MAIL-1013,Poly Mailer 10x13,Mailers,5385,0.14,3
+2024-02,MAIL-1013,Poly Mailer 10x13,Mailers,6304,0.14,3
+2024-03,MAIL-1013,Poly Mailer 10x13,Mailers,7990,0.14,3
+2024-04,MAIL-1013,Poly Mailer 10x13,Mailers,7892,0.14,3
+2024-05,MAIL-1013,Poly Mailer 10x13,Mailers,6137,0.14,3
+2024-06,MAIL-1013,Poly Mailer 10x13,Mailers,7834,0.14,3
+2024-07,MAIL-1013,Poly Mailer 10x13,Mailers,7565,0.14,3
+2024-08,MAIL-1013,Poly Mailer 10x13,Mailers,8250,0.14,3
+2024-09,MAIL-1013,Poly Mailer 10x13,Mailers,10044,0.14,3
+2024-10,MAIL-1013,Poly Mailer 10x13,Mailers,7815,0.14,3
+2024-11,MAIL-1013,Poly Mailer 10x13,Mailers,9886,0.14,3
+2024-12,MAIL-1013,Poly Mailer 10x13,Mailers,11102,0.14,3
+2025-01,MAIL-1013,Poly Mailer 10x13,Mailers,5505,0.14,3
+2025-02,MAIL-1013,Poly Mailer 10x13,Mailers,7779,0.14,3
+2025-03,MAIL-1013,Poly Mailer 10x13,Mailers,8375,0.14,3
+2025-04,MAIL-1013,Poly Mailer 10x13,Mailers,9019,0.14,3
+2025-05,MAIL-1013,Poly Mailer 10x13,Mailers,8214,0.14,3
+2025-06,MAIL-1013,Poly Mailer 10x13,Mailers,9165,0.14,3
+2025-07,MAIL-1013,Poly Mailer 10x13,Mailers,9227,0.14,3
+2025-08,MAIL-1013,Poly Mailer 10x13,Mailers,9095,0.14,3
+2025-09,MAIL-1013,Poly Mailer 10x13,Mailers,10027,0.14,3
+2025-10,MAIL-1013,Poly Mailer 10x13,Mailers,11011,0.14,3
+2025-11,MAIL-1013,Poly Mailer 10x13,Mailers,10786,0.14,3
+2025-12,MAIL-1013,Poly Mailer 10x13,Mailers,11649,0.14,3
+2023-01,MAIL-BUB,Bubble Mailer #2,Mailers,2996,0.32,3
+2023-02,MAIL-BUB,Bubble Mailer #2,Mailers,3345,0.32,3
+2023-03,MAIL-BUB,Bubble Mailer #2,Mailers,4091,0.32,3
+2023-04,MAIL-BUB,Bubble Mailer #2,Mailers,3421,0.32,3
+2023-05,MAIL-BUB,Bubble Mailer #2,Mailers,3884,0.32,3
+2023-06,MAIL-BUB,Bubble Mailer #2,Mailers,4456,0.32,3
+2023-07,MAIL-BUB,Bubble Mailer #2,Mailers,3543,0.32,3
+2023-08,MAIL-BUB,Bubble Mailer #2,Mailers,3689,0.32,3
+2023-09,MAIL-BUB,Bubble Mailer #2,Mailers,4467,0.32,3
+2023-10,MAIL-BUB,Bubble Mailer #2,Mailers,5143,0.32,3
+2023-11,MAIL-BUB,Bubble Mailer #2,Mailers,5118,0.32,3
+2023-12,MAIL-BUB,Bubble Mailer #2,Mailers,5833,0.32,3
+2024-01,MAIL-BUB,Bubble Mailer #2,Mailers,3600,0.32,3
+2024-02,MAIL-BUB,Bubble Mailer #2,Mailers,3807,0.32,3
+2024-03,MAIL-BUB,Bubble Mailer #2,Mailers,4278,0.32,3
+2024-04,MAIL-BUB,Bubble Mailer #2,Mailers,5140,0.32,3
+2024-05,MAIL-BUB,Bubble Mailer #2,Mailers,4199,0.32,3
+2024-06,MAIL-BUB,Bubble Mailer #2,Mailers,3383,0.32,3
+2024-07,MAIL-BUB,Bubble Mailer #2,Mailers,4841,0.32,3
+2024-08,MAIL-BUB,Bubble Mailer #2,Mailers,4180,0.32,3
+2024-09,MAIL-BUB,Bubble Mailer #2,Mailers,4824,0.32,3
+2024-10,MAIL-BUB,Bubble Mailer #2,Mailers,5847,0.32,3
+2024-11,MAIL-BUB,Bubble Mailer #2,Mailers,4680,0.32,3
+2024-12,MAIL-BUB,Bubble Mailer #2,Mailers,4910,0.32,3
+2025-01,MAIL-BUB,Bubble Mailer #2,Mailers,3035,0.32,3
+2025-02,MAIL-BUB,Bubble Mailer #2,Mailers,3523,0.32,3
+2025-03,MAIL-BUB,Bubble Mailer #2,Mailers,4613,0.32,3
+2025-04,MAIL-BUB,Bubble Mailer #2,Mailers,4783,0.32,3
+2025-05,MAIL-BUB,Bubble Mailer #2,Mailers,4802,0.32,3
+2025-06,MAIL-BUB,Bubble Mailer #2,Mailers,3959,0.32,3
+2025-07,MAIL-BUB,Bubble Mailer #2,Mailers,3497,0.32,3
+2025-08,MAIL-BUB,Bubble Mailer #2,Mailers,4801,0.32,3
+2025-09,MAIL-BUB,Bubble Mailer #2,Mailers,4957,0.32,3
+2025-10,MAIL-BUB,Bubble Mailer #2,Mailers,5894,0.32,3
+2025-11,MAIL-BUB,Bubble Mailer #2,Mailers,6500,0.32,3
+2025-12,MAIL-BUB,Bubble Mailer #2,Mailers,6202,0.32,3
+2023-01,LBL-4X6,Thermal Shipping Label 4x6,Labels,2303,9.8,2
+2023-02,LBL-4X6,Thermal Shipping Label 4x6,Labels,2310,9.8,2
+2023-03,LBL-4X6,Thermal Shipping Label 4x6,Labels,2634,9.8,2
+2023-04,LBL-4X6,Thermal Shipping Label 4x6,Labels,2443,9.8,2
+2023-05,LBL-4X6,Thermal Shipping Label 4x6,Labels,2614,9.8,2
+2023-06,LBL-4X6,Thermal Shipping Label 4x6,Labels,2676,9.8,2
+2023-07,LBL-4X6,Thermal Shipping Label 4x6,Labels,2788,9.8,2
+2023-08,LBL-4X6,Thermal Shipping Label 4x6,Labels,2636,9.8,2
+2023-09,LBL-4X6,Thermal Shipping Label 4x6,Labels,3034,9.8,2
+2023-10,LBL-4X6,Thermal Shipping Label 4x6,Labels,3041,9.8,2
+2023-11,LBL-4X6,Thermal Shipping Label 4x6,Labels,3273,9.8,2
+2023-12,LBL-4X6,Thermal Shipping Label 4x6,Labels,3554,9.8,2
+2024-01,LBL-4X6,Thermal Shipping Label 4x6,Labels,2026,9.8,2
+2024-02,LBL-4X6,Thermal Shipping Label 4x6,Labels,2257,9.8,2
+2024-03,LBL-4X6,Thermal Shipping Label 4x6,Labels,2472,9.8,2
+2024-04,LBL-4X6,Thermal Shipping Label 4x6,Labels,2337,9.8,2
+2024-05,LBL-4X6,Thermal Shipping Label 4x6,Labels,2784,9.8,2
+2024-06,LBL-4X6,Thermal Shipping Label 4x6,Labels,3099,9.8,2
+2024-07,LBL-4X6,Thermal Shipping Label 4x6,Labels,2838,9.8,2
+2024-08,LBL-4X6,Thermal Shipping Label 4x6,Labels,3069,9.8,2
+2024-09,LBL-4X6,Thermal Shipping Label 4x6,Labels,3515,9.8,2
+2024-10,LBL-4X6,Thermal Shipping Label 4x6,Labels,3815,9.8,2
+2024-11,LBL-4X6,Thermal Shipping Label 4x6,Labels,3647,9.8,2
+2024-12,LBL-4X6,Thermal Shipping Label 4x6,Labels,4100,9.8,2
+2025-01,LBL-4X6,Thermal Shipping Label 4x6,Labels,2695,9.8,2
+2025-02,LBL-4X6,Thermal Shipping Label 4x6,Labels,2608,9.8,2
+2025-03,LBL-4X6,Thermal Shipping Label 4x6,Labels,2965,9.8,2
+2025-04,LBL-4X6,Thermal Shipping Label 4x6,Labels,2812,9.8,2
+2025-05,LBL-4X6,Thermal Shipping Label 4x6,Labels,3035,9.8,2
+2025-06,LBL-4X6,Thermal Shipping Label 4x6,Labels,3153,9.8,2
+2025-07,LBL-4X6,Thermal Shipping Label 4x6,Labels,3430,9.8,2
+2025-08,LBL-4X6,Thermal Shipping Label 4x6,Labels,3815,9.8,2
+2025-09,LBL-4X6,Thermal Shipping Label 4x6,Labels,3192,9.8,2
+2025-10,LBL-4X6,Thermal Shipping Label 4x6,Labels,3948,9.8,2
+2025-11,LBL-4X6,Thermal Shipping Label 4x6,Labels,3732,9.8,2
+2025-12,LBL-4X6,Thermal Shipping Label 4x6,Labels,4263,9.8,2
+2023-01,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,475,26.0,6
+2023-02,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,368,26.0,6
+2023-03,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,653,26.0,6
+2023-04,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,533,26.0,6
+2023-05,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,551,26.0,6
+2023-06,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,496,26.0,6
+2023-07,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,525,26.0,6
+2023-08,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,645,26.0,6
+2023-09,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,634,26.0,6
+2023-10,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,733,26.0,6
+2023-11,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,786,26.0,6
+2023-12,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,896,26.0,6
+2024-01,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,483,26.0,6
+2024-02,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,415,26.0,6
+2024-03,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,698,26.0,6
+2024-04,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,585,26.0,6
+2024-05,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,734,26.0,6
+2024-06,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,656,26.0,6
+2024-07,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,600,26.0,6
+2024-08,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,670,26.0,6
+2024-09,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,885,26.0,6
+2024-10,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,962,26.0,6
+2024-11,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,791,26.0,6
+2024-12,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,805,26.0,6
+2025-01,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,620,26.0,6
+2025-02,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,489,26.0,6
+2025-03,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,663,26.0,6
+2025-04,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,644,26.0,6
+2025-05,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,692,26.0,6
+2025-06,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,570,26.0,6
+2025-07,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,489,26.0,6
+2025-08,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,461,26.0,6
+2025-09,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,599,26.0,6
+2025-10,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,717,26.0,6
+2025-11,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,785,26.0,6
+2025-12,VOID-AIR,Air Pillow Void Fill (case),Protective Pkg,1065,26.0,6
+2023-01,PAL-4840,Plastic Pallet 48x40,Warehouse,210,89.0,8
+2023-02,PAL-4840,Plastic Pallet 48x40,Warehouse,146,89.0,8
+2023-03,PAL-4840,Plastic Pallet 48x40,Warehouse,190,89.0,8
+2023-04,PAL-4840,Plastic Pallet 48x40,Warehouse,167,89.0,8
+2023-05,PAL-4840,Plastic Pallet 48x40,Warehouse,171,89.0,8
+2023-06,PAL-4840,Plastic Pallet 48x40,Warehouse,187,89.0,8
+2023-07,PAL-4840,Plastic Pallet 48x40,Warehouse,201,89.0,8
+2023-08,PAL-4840,Plastic Pallet 48x40,Warehouse,171,89.0,8
+2023-09,PAL-4840,Plastic Pallet 48x40,Warehouse,219,89.0,8
+2023-10,PAL-4840,Plastic Pallet 48x40,Warehouse,148,89.0,8
+2023-11,PAL-4840,Plastic Pallet 48x40,Warehouse,188,89.0,8
+2023-12,PAL-4840,Plastic Pallet 48x40,Warehouse,276,89.0,8
+2024-01,PAL-4840,Plastic Pallet 48x40,Warehouse,186,89.0,8
+2024-02,PAL-4840,Plastic Pallet 48x40,Warehouse,226,89.0,8
+2024-03,PAL-4840,Plastic Pallet 48x40,Warehouse,186,89.0,8
+2024-04,PAL-4840,Plastic Pallet 48x40,Warehouse,203,89.0,8
+2024-05,PAL-4840,Plastic Pallet 48x40,Warehouse,182,89.0,8
+2024-06,PAL-4840,Plastic Pallet 48x40,Warehouse,179,89.0,8
+2024-07,PAL-4840,Plastic Pallet 48x40,Warehouse,158,89.0,8
+2024-08,PAL-4840,Plastic Pallet 48x40,Warehouse,200,89.0,8
+2024-09,PAL-4840,Plastic Pallet 48x40,Warehouse,159,89.0,8
+2024-10,PAL-4840,Plastic Pallet 48x40,Warehouse,212,89.0,8
+2024-11,PAL-4840,Plastic Pallet 48x40,Warehouse,229,89.0,8
+2024-12,PAL-4840,Plastic Pallet 48x40,Warehouse,205,89.0,8
+2025-01,PAL-4840,Plastic Pallet 48x40,Warehouse,173,89.0,8
+2025-02,PAL-4840,Plastic Pallet 48x40,Warehouse,198,89.0,8
+2025-03,PAL-4840,Plastic Pallet 48x40,Warehouse,176,89.0,8
+2025-04,PAL-4840,Plastic Pallet 48x40,Warehouse,219,89.0,8
+2025-05,PAL-4840,Plastic Pallet 48x40,Warehouse,126,89.0,8
+2025-06,PAL-4840,Plastic Pallet 48x40,Warehouse,177,89.0,8
+2025-07,PAL-4840,Plastic Pallet 48x40,Warehouse,120,89.0,8
+2025-08,PAL-4840,Plastic Pallet 48x40,Warehouse,138,89.0,8
+2025-09,PAL-4840,Plastic Pallet 48x40,Warehouse,238,89.0,8
+2025-10,PAL-4840,Plastic Pallet 48x40,Warehouse,225,89.0,8
+2025-11,PAL-4840,Plastic Pallet 48x40,Warehouse,170,89.0,8
+2025-12,PAL-4840,Plastic Pallet 48x40,Warehouse,143,89.0,8
+2023-01,GLV-NIT,Nitrile Gloves (case),Warehouse,296,34.0,6
+2023-02,GLV-NIT,Nitrile Gloves (case),Warehouse,470,34.0,6
+2023-03,GLV-NIT,Nitrile Gloves (case),Warehouse,691,34.0,6
+2023-04,GLV-NIT,Nitrile Gloves (case),Warehouse,549,34.0,6
+2023-05,GLV-NIT,Nitrile Gloves (case),Warehouse,478,34.0,6
+2023-06,GLV-NIT,Nitrile Gloves (case),Warehouse,551,34.0,6
+2023-07,GLV-NIT,Nitrile Gloves (case),Warehouse,403,34.0,6
+2023-08,GLV-NIT,Nitrile Gloves (case),Warehouse,497,34.0,6
+2023-09,GLV-NIT,Nitrile Gloves (case),Warehouse,531,34.0,6
+2023-10,GLV-NIT,Nitrile Gloves (case),Warehouse,523,34.0,6
+2023-11,GLV-NIT,Nitrile Gloves (case),Warehouse,593,34.0,6
+2023-12,GLV-NIT,Nitrile Gloves (case),Warehouse,560,34.0,6
+2024-01,GLV-NIT,Nitrile Gloves (case),Warehouse,553,34.0,6
+2024-02,GLV-NIT,Nitrile Gloves (case),Warehouse,459,34.0,6
+2024-03,GLV-NIT,Nitrile Gloves (case),Warehouse,581,34.0,6
+2024-04,GLV-NIT,Nitrile Gloves (case),Warehouse,635,34.0,6
+2024-05,GLV-NIT,Nitrile Gloves (case),Warehouse,448,34.0,6
+2024-06,GLV-NIT,Nitrile Gloves (case),Warehouse,453,34.0,6
+2024-07,GLV-NIT,Nitrile Gloves (case),Warehouse,613,34.0,6
+2024-08,GLV-NIT,Nitrile Gloves (case),Warehouse,505,34.0,6
+2024-09,GLV-NIT,Nitrile Gloves (case),Warehouse,627,34.0,6
+2024-10,GLV-NIT,Nitrile Gloves (case),Warehouse,496,34.0,6
+2024-11,GLV-NIT,Nitrile Gloves (case),Warehouse,643,34.0,6
+2024-12,GLV-NIT,Nitrile Gloves (case),Warehouse,544,34.0,6
+2025-01,GLV-NIT,Nitrile Gloves (case),Warehouse,524,34.0,6
+2025-02,GLV-NIT,Nitrile Gloves (case),Warehouse,620,34.0,6
+2025-03,GLV-NIT,Nitrile Gloves (case),Warehouse,490,34.0,6
+2025-04,GLV-NIT,Nitrile Gloves (case),Warehouse,449,34.0,6
+2025-05,GLV-NIT,Nitrile Gloves (case),Warehouse,486,34.0,6
+2025-06,GLV-NIT,Nitrile Gloves (case),Warehouse,550,34.0,6
+2025-07,GLV-NIT,Nitrile Gloves (case),Warehouse,403,34.0,6
+2025-08,GLV-NIT,Nitrile Gloves (case),Warehouse,565,34.0,6
+2025-09,GLV-NIT,Nitrile Gloves (case),Warehouse,484,34.0,6
+2025-10,GLV-NIT,Nitrile Gloves (case),Warehouse,614,34.0,6
+2025-11,GLV-NIT,Nitrile Gloves (case),Warehouse,355,34.0,6
+2025-12,GLV-NIT,Nitrile Gloves (case),Warehouse,475,34.0,6
